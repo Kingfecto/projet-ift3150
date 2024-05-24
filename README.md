@@ -1,6 +1,6 @@
 # Projet IFT3150: Évaluation de la plateforme MBDE
 
-> **Page web du projet (IFT3150):** https://ceduni.github.io/picto360
+> **Page web du projet (IFT3150):** https://Kingfecto.github.io/projet-ift3150
 
 ## Description du projet 
 
