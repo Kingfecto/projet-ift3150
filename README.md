@@ -1,4 +1,22 @@
-# projet-ift3150
-- *Titre*:  Évaluation de la plateforme MBDE
-- 
-- *Description*: Mon bras droit éduc, un organisme à but non lucratif, développe actuellement une plateforme collaborative (en phase finale) visant à offrir un meilleur encadrement aux étudiants en situation de handicap. Ce projet vise à évaluer la plateforme afin de vérifier l’exactitude de l’implémentation et documenter l’architecture complète du programme existant afin de comprendre sa structure et analyser les besoins de développement futurs.
+# Projet IFT3150: Évaluation de la plateforme MBDE
+
+> **Page web du projet (IFT3150):** https://ceduni.github.io/picto360
+
+## Description du projet 
+
+Mon bras droit éduc (MBDE), un organisme à but non lucratif, développe actuellement une plateforme collaborative (en phase finale) visant à offrir un meilleur encadrement aux étudiants en situation de handicap. Ce projet vise à évaluer la plateforme afin de vérifier l’exactitude de l’implémentation et documenter l’architecture complète du programme existant afin de comprendre sa structure et analyser les besoins de développement futurs.
+
+### Fonctionnalités
+
+<!-- TODO -->
+
+## 📅 Échéancier
+
+> Début du projet: 20 mai 2024  
+> Fin du projet: 11 aout 2024
+
+Le suivi du projet est présenté dans le fichier [**TIMELINE**](TIMELINE.md).
+
+# 📘 Documentation
+
+# 🗂️ Organisation
