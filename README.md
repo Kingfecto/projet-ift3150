@@ -20,5 +20,6 @@ Le suivi du projet est présenté dans le fichier [**TIMELINE**](TIMELINE.md).
 # 📘 Documentation
 
 - Drive: https://drive.google.com/drive/u/1/folders/17bKd7ajF0-cP5-YixKjyl9gk6ZWEYY3F
+- Evaluation Préliminaire: https://docs.google.com/document/d/143l7hkFIcZu-JVhR32T4Iz-5SjLzVk88/edit?usp=drive_link&ouid=100918256968785245077&rtpof=true&sd=true
 
 # 🗂️ Organisation
